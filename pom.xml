@@ -46,7 +46,7 @@
         <dependency>
             <groupId>com.rbkmoney</groupId>
             <artifactId>bouncer-proto</artifactId>
-            <!-- TODO <version>1.7-ec15d5e</version> -->
+            <version>1.2-97dcad6</version>
         </dependency>
     </dependencies>
 
