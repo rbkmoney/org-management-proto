@@ -2,7 +2,7 @@ namespace java com.rbkmoney.orgmanagement
 namespace erlang orgmgmt
 
 include "domain.thrift"
-include "proto/context.thrift"
+include "context.thrift"
 
 exception UserNotFound {}
 

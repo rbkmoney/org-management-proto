@@ -13,3 +13,4 @@ erl_crash.dump
 rebar3.crashdump
 /src/*_thrift.erl
 /include/*_thrift.hrl
+target

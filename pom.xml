@@ -10,7 +10,6 @@
         <version>1.0.5</version>
     </parent>
 
-    <groupId>com.rbkmoney</groupId>
     <artifactId>org-management-proto</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
